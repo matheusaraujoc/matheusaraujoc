@@ -2,7 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araújo-b9418b1b8/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaraujoc&show_icons=true&theme=dracula&locale=pt-br)
+<div>
+  <a href="https://github.com/matheusaraujoc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusaraujoc&show_icons=true&theme=dracula&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujoc&layout=compact&theme=dracula&locale=pt-br"/>
+</div>
 
 ### Tecnologias que eu uso no meu dia
 
@@ -13,7 +17,3 @@
     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
-###
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujoc&layout=compact&theme=dracula&locale=pt-br)
