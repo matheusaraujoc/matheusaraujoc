@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araújo-b9418b1b8/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaraujoc&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaraujoc&show_icons=true&theme=dracula&locale=pt-br)
 
 ### Tecnologias que eu uso no meu dia
 
@@ -16,4 +16,4 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujoc&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujoc&layout=compact&theme=dracula&locale=pt-br)
