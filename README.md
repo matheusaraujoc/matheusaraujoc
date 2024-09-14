@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus Araújo 😉
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0CA3F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Ara%C3%BAjo.%F0%9F%98%89;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araújo-b9418b1b8/)
 
