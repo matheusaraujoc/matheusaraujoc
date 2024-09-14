@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&lines=Olá+eu+sou+o+Matheus+Araújo.;Seja+bem+vindo+ao+meu+perfil!&color=FFFFFF" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&lines=Olá,+eu+sou+o+Matheus+Araújo.;Seja+bem+vindo+ao+meu+perfil!&color=000000" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&lines=Olá+eu+sou+o+Matheus+Araújo.;Seja+bem+vindo+ao+meu+perfil!&color=000000" />
 </picture>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araújo-b9418b1b8/)
