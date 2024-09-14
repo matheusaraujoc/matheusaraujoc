@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&lines=Olá+eu+sou+o+Matheus+Araújo.;Seja+bem+vindo+ao+meu+perfil!&color=FFFFFF" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&lines=Olá,+eu+sou+o+Matheus+Araújo.;Seja+bem+vindo+ao+meu+perfil!&color=FFFFFF" />
   <img src="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&lines=Olá+eu+sou+o+Matheus+Araújo.;Seja+bem+vindo+ao+meu+perfil!&color=000000" />
 </picture>
 
