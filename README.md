@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/matheusaraujoc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusaraujoc&show_icons=true&theme=dracula&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujoc&layout=compact&theme=dracula&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusaraujoc&show_icons=true&theme=github_dark&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujoc&layout=compact&theme=github_dark&locale=pt-br"/>
 </div>
 
 ### Tecnologias que eu uso no meu dia
