@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&repeat=false&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Araújo.&color=FFFFFF" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&repeat=false&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Araújo.&color=000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&repeat=false&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Araújo&color=FFFFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Kanit&size=23&duration=2500&pause=1000&repeat=false&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Araújo&color=000000" />
 </picture>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araújo-b9418b1b8/)
