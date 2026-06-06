@@ -48,15 +48,11 @@ My main interests include transforming large volumes of data into practical and 
 
 ---
 
-## GitHub Statistics
+## Activity Graph
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusaraujoc&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujoc&layout=compact&theme=github_dark&hide_border=true"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusaraujoc&theme=github-dark&hide_border=true)](https://github.com/matheusaraujoc)
 
 ---
-
-## Contact
 
 ## Contact
 
