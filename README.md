@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Matheus%20Araújo&fontSize=50&fontAlignY=40&animation=fadeIn&color=0:0d1117,50:1f6feb,100:58a6ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Matheus%20Araújo&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&color=0:0d1117,100:1f6feb"/>
 
 # Matheus Araújo
 
